@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dataset i modeli (preveliki za GitHub)
+data/
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Logs i runs
+runs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
